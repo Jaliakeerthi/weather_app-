@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background: #95c8ed;
+    background-image: linear-gradient(to right, lightblue, darkblue)
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(13, 196, 209);
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #1d1824;
+    font-family: cursor;
+    font-size: 50px;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    width: 70%;
+    background-color: #e4d0f7;
+    color: #1a171c;
+}
+
+button {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#weatherInfo {
+    margin-top: 25px;
+    text-align: left;
+    color: #301d1c;
+    font-weight: bold;
+    font-family: Sans-Serif;
+    font-size: 25px;
+    margin-bottom: 25px;
+    font-style: italic;
+    padding: 10px;
+}
